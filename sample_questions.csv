@@ -1,0 +1,4 @@
+問題番号,質問文,選択肢1,選択肢2,選択肢3,選択肢4,選択肢5
+1,プログラミングで最も好きな言語は何ですか？,Python,JavaScript,Java,C++,Ruby
+2,開発環境として何を使用していますか？,VSCode,PyCharm,Sublime Text,Vim/Emacs,IntelliJ IDEA
+3,1日のコーディング時間はどのくらいですか？,1時間未満,1-3時間,3-5時間,5-8時間,8時間以上

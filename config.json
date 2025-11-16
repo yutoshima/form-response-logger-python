@@ -1,0 +1,13 @@
+{
+  "questions_directory": "/Users/yuto/Documents/study/program/study_form_app/questions",
+  "questions_file": "questions.csv",
+  "log_directory": "/Users/yuto/Documents/study/program/study_form_app/data/logs",
+  "log_name_format": "action_log_{date}.csv",
+  "response_directory": "/Users/yuto/Documents/study/program/study_form_app/data/responses",
+  "response_name_format": "responses_{respondent_id}_{date}.csv",
+  "appearance_mode": "Light",
+  "color_theme": "blue",
+  "output_format": "csv",
+  "font_size": "large",
+  "auto_save": true
+}
